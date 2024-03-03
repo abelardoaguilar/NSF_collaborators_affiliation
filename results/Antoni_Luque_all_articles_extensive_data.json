@@ -1,0 +1,458 @@
+[
+    {
+        "doi": "10.1093/bioinformatics/btad761",
+        "article_data": {
+            "title": "pyCapsid: identifying dominant dynamics and quasi-rigid mechanical units in protein shells",
+            "journal": "Bioinformatics",
+            "doi": "10.1093/bioinformatics/btad761",
+            "publication_date": 2023
+        },
+        "author_data": [
+            {
+                "given_name": "Colin",
+                "family_name": "Brown",
+                "affiliation": [
+                    "Viral Information Institute, San Diego State University , San Diego, CA 92116, United States",
+                    "Department of Physics, San Diego State University , San Diego, CA 92116, United States"
+                ]
+            },
+            {
+                "given_name": "Anuradha",
+                "family_name": "Agarwal",
+                "affiliation": [
+                    "Viral Information Institute, San Diego State University , San Diego, CA 92116, United States",
+                    "Computational Science Research Center, San Diego State University , San Diego, CA 92116, United States"
+                ]
+            },
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": [
+                    "Viral Information Institute, San Diego State University , San Diego, CA 92116, United States",
+                    "Computational Science Research Center, San Diego State University , San Diego, CA 92116, United States",
+                    "Department of Mathematics and Statistics, San Diego State University , San Diego, CA 92116, United States",
+                    "Department of Biology, University of Miami , Coral Gables, FL 33146, United States"
+                ]
+            }
+        ]
+    },
+    {
+        "doi": "10.1186/s12915-023-01571-9",
+        "article_data": {
+            "title": "Viral predation pressure on coral reefs",
+            "journal": "BMC Biology",
+            "doi": "10.1186/s12915-023-01571-9",
+            "publication_date": 2023
+        },
+        "author_data": [
+            {
+                "given_name": "Cynthia B.",
+                "family_name": "Silveira",
+                "affiliation": []
+            },
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": []
+            },
+            {
+                "given_name": "Andreas F.",
+                "family_name": "Haas",
+                "affiliation": []
+            },
+            {
+                "given_name": "Ty N. F.",
+                "family_name": "Roach",
+                "affiliation": []
+            },
+            {
+                "given_name": "Emma E.",
+                "family_name": "George",
+                "affiliation": []
+            },
+            {
+                "given_name": "Ben",
+                "family_name": "Knowles",
+                "affiliation": []
+            },
+            {
+                "given_name": "Mark",
+                "family_name": "Little",
+                "affiliation": []
+            },
+            {
+                "given_name": "Christopher J.",
+                "family_name": "Sullivan",
+                "affiliation": []
+            },
+            {
+                "given_name": "Natascha S.",
+                "family_name": "Varona",
+                "affiliation": []
+            },
+            {
+                "given_name": "Linda",
+                "family_name": "Wegley Kelly",
+                "affiliation": []
+            },
+            {
+                "given_name": "Russel",
+                "family_name": "Brainard",
+                "affiliation": []
+            },
+            {
+                "given_name": "Forest",
+                "family_name": "Rohwer",
+                "affiliation": []
+            },
+            {
+                "given_name": "Barbara",
+                "family_name": "Bailey",
+                "affiliation": []
+            }
+        ]
+    },
+    {
+        "doi": "10.1111/1462-2920.15640",
+        "article_data": {
+            "title": "The landscape of lysogeny across microbial community density, diversity and energetics",
+            "journal": "Environmental Microbiology",
+            "doi": "10.1111/1462-2920.15640",
+            "publication_date": 2021
+        },
+        "author_data": [
+            {
+                "given_name": "Cynthia B.",
+                "family_name": "Silveira",
+                "affiliation": [
+                    "Department of Biology University of Miami  1301 Memorial Drive Coral Gables FL 33143 USA",
+                    "Department of Marine Biology and Ecology Rosenstiel School of Marine and Atmospheric Sciences, University of Miami  4600 Rickenbacker Causeway Miami FL 33149 USA"
+                ]
+            },
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": [
+                    "Viral Information Institute, San Diego State University  5500 Campanile Dr. San Diego CA 92182 USA",
+                    "Department of Mathematics and Statistics San Diego State University  5500 Campanile Dr. San Diego CA 92182 USA",
+                    "Computational Science Research Center, San Diego State University  5500 Campanile Dr San Diego CA 92182 USA"
+                ]
+            },
+            {
+                "given_name": "Forest",
+                "family_name": "Rohwer",
+                "affiliation": [
+                    "Viral Information Institute, San Diego State University  5500 Campanile Dr. San Diego CA 92182 USA",
+                    "Department of Biology San Diego State University  5500 Campanile Dr San Diego CA 92182 USA"
+                ]
+            }
+        ]
+    },
+    {
+        "doi": "10.7717/peerj.11213",
+        "article_data": {
+            "title": "Space-filling and benthic competition on coral reefs",
+            "journal": "PeerJ",
+            "doi": "10.7717/peerj.11213",
+            "publication_date": 2021
+        },
+        "author_data": [
+            {
+                "given_name": "Emma E.",
+                "family_name": "George",
+                "affiliation": [
+                    "Department of Biology, San Diego State University, San Diego, CA, United States of America",
+                    "Department of Botany, University of British Columbia, Vancouver, British Columbia, Canada"
+                ]
+            },
+            {
+                "given_name": "James A.",
+                "family_name": "Mullinix",
+                "affiliation": [
+                    "Department of Mathematics and Statistics, San Diego State University, San Diego, CA, United States of America",
+                    "Computational Science Research Center, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Fanwei",
+                "family_name": "Meng",
+                "affiliation": [
+                    "Department of Mathematics and Statistics, San Diego State University, San Diego, CA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Barbara A.",
+                "family_name": "Bailey",
+                "affiliation": [
+                    "Department of Mathematics and Statistics, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Clinton",
+                "family_name": "Edwards",
+                "affiliation": [
+                    "Scripps Institution of Oceanography, University of California, San Diego, La Jolla, CA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Ben",
+                "family_name": "Felts",
+                "affiliation": [
+                    "Department of Mathematics and Statistics, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Andreas F.",
+                "family_name": "Haas",
+                "affiliation": [
+                    "NIOZ Royal Netherlands Institute for Sea Research and Utrecht University, Texel, Netherlands"
+                ]
+            },
+            {
+                "given_name": "Aaron C.",
+                "family_name": "Hartmann",
+                "affiliation": [
+                    "Department of Biology, San Diego State University, San Diego, CA, United States of America",
+                    "Smithsonian National Museum of Natural History, Washington, DC, United States of America",
+                    "Organismic and Evolutionary Biology, Harvard University, Cambridge, MA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Benjamin",
+                "family_name": "Mueller",
+                "affiliation": [
+                    "CARMABI Foundation, Willemstad, Cura\u00e7ao",
+                    "Department of Freshwater and Marine Ecology/Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam, Amsterdam, Netherlands"
+                ]
+            },
+            {
+                "given_name": "Ty N.F.",
+                "family_name": "Roach",
+                "affiliation": [
+                    "Department of Biology, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America",
+                    "Hawai\u2019i Institute of Marine Biology, University of Hawai\u2019i at M\u00e3noa, K\u00e3ne\u2019ohe, HI, United States of America"
+                ]
+            },
+            {
+                "given_name": "Peter",
+                "family_name": "Salamon",
+                "affiliation": [
+                    "Department of Mathematics and Statistics, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Cynthia",
+                "family_name": "Silveira",
+                "affiliation": [
+                    "Department of Biology, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America",
+                    "Department of Biology, University of Miami, Coral Gables, FL, United States of America"
+                ]
+            },
+            {
+                "given_name": "Mark J.A.",
+                "family_name": "Vermeij",
+                "affiliation": [
+                    "CARMABI Foundation, Willemstad, Cura\u00e7ao",
+                    "Department of Freshwater and Marine Ecology/Institute for Biodiversity and Ecosystem Dynamics, University of Amsterdam, Amsterdam, Netherlands"
+                ]
+            },
+            {
+                "given_name": "Forest",
+                "family_name": "Rohwer",
+                "affiliation": [
+                    "Department of Biology, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America"
+                ]
+            },
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": [
+                    "Department of Mathematics and Statistics, San Diego State University, San Diego, CA, United States of America",
+                    "Computational Science Research Center, San Diego State University, San Diego, CA, United States of America",
+                    "Viral Information Institute, San Diego State University, San Diego, CA, United States of America"
+                ]
+            }
+        ]
+    },
+    {
+        "doi": "10.1080/10511970.2021.1881847",
+        "article_data": {
+            "title": "Aligning Calculus with Life Sciences Disciplines: The Argument for Integrating Statistical Reasoning",
+            "journal": "PRIMUS",
+            "doi": "10.1080/10511970.2021.1881847",
+            "publication_date": 2021
+        },
+        "author_data": [
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": []
+            },
+            {
+                "given_name": "James",
+                "family_name": "Mullinix",
+                "affiliation": []
+            },
+            {
+                "given_name": "Matt",
+                "family_name": "Anderson",
+                "affiliation": []
+            },
+            {
+                "given_name": "Kathy S.",
+                "family_name": "Williams",
+                "affiliation": []
+            },
+            {
+                "given_name": "Janet",
+                "family_name": "Bowers",
+                "affiliation": []
+            }
+        ]
+    },
+    {
+        "doi": "10.3389/fphy.2021.594306",
+        "article_data": {
+            "title": "Empirical and Theoretical Analysis of Particle Diffusion in Mucus",
+            "journal": "Frontiers in Physics",
+            "doi": "10.3389/fphy.2021.594306",
+            "publication_date": 2021
+        },
+        "author_data": [
+            {
+                "given_name": "Antonio",
+                "family_name": "Cobarrubia",
+                "affiliation": []
+            },
+            {
+                "given_name": "Jarod",
+                "family_name": "Tall",
+                "affiliation": []
+            },
+            {
+                "given_name": "Austin",
+                "family_name": "Crispin-Smith",
+                "affiliation": []
+            },
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": []
+            }
+        ]
+    },
+    {
+        "doi": "10.3390/microorganisms8121944",
+        "article_data": {
+            "title": "The Missing Tailed Phages: Prediction of Small Capsid Candidates",
+            "journal": "Microorganisms",
+            "doi": "10.3390/microorganisms8121944",
+            "publication_date": 2020
+        },
+        "author_data": [
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": []
+            },
+            {
+                "given_name": "Sean",
+                "family_name": "Benler",
+                "affiliation": []
+            },
+            {
+                "given_name": "Diana Y.",
+                "family_name": "Lee",
+                "affiliation": []
+            },
+            {
+                "given_name": "Colin",
+                "family_name": "Brown",
+                "affiliation": []
+            },
+            {
+                "given_name": "Simon",
+                "family_name": "White",
+                "affiliation": []
+            }
+        ]
+    },
+    {
+        "doi": "10.1186/s12864-020-6523-2",
+        "article_data": {
+            "title": "Genomic and ecological attributes of marine bacteriophages encoding bacterial virulence genes",
+            "journal": "BMC Genomics",
+            "doi": "10.1186/s12864-020-6523-2",
+            "publication_date": 2020
+        },
+        "author_data": [
+            {
+                "given_name": "Cynthia B.",
+                "family_name": "Silveira",
+                "affiliation": []
+            },
+            {
+                "given_name": "Felipe H.",
+                "family_name": "Coutinho",
+                "affiliation": []
+            },
+            {
+                "given_name": "Giselle S.",
+                "family_name": "Cavalcanti",
+                "affiliation": []
+            },
+            {
+                "given_name": "Sean",
+                "family_name": "Benler",
+                "affiliation": []
+            },
+            {
+                "given_name": "Michael P.",
+                "family_name": "Doane",
+                "affiliation": []
+            },
+            {
+                "given_name": "Elizabeth A.",
+                "family_name": "Dinsdale",
+                "affiliation": []
+            },
+            {
+                "given_name": "Robert A.",
+                "family_name": "Edwards",
+                "affiliation": []
+            },
+            {
+                "given_name": "Ronaldo B.",
+                "family_name": "Francini-Filho",
+                "affiliation": []
+            },
+            {
+                "given_name": "Cristiane C.",
+                "family_name": "Thompson",
+                "affiliation": []
+            },
+            {
+                "given_name": "Antoni",
+                "family_name": "Luque",
+                "affiliation": []
+            },
+            {
+                "given_name": "Forest L.",
+                "family_name": "Rohwer",
+                "affiliation": []
+            },
+            {
+                "given_name": "Fabiano",
+                "family_name": "Thompson",
+                "affiliation": []
+            }
+        ]
+    }
+]
