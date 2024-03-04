@@ -40,7 +40,5 @@ from src.coauthors_affiliation import fetch_coauthors_data
 
 fetch_coauthors_data.generate_global_json_file(query_dois, generate_individual_files,global_json_file)
 global_df = fetch_coauthors_data.generate_global_df(global_json_file)
-csv_file = global_json_file.replace('.json', '.csv')
-global_df.to_csv(csv_file, index=False)
 
 print(global_df)
